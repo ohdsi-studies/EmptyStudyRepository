@@ -1,19 +1,11 @@
-[Study title]
+Patient profiles: developing a chart review alternative
 =============
 
 <img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-- Analytics use case(s): **-**
-- Study type: **-**
-- Tags: **-**
-- Study lead: **-**
-- Study lead forums tag: **[[Lead tag]](https://forums.ohdsi.org/u/[Lead tag])**
-- Study start date: **-**
-- Study end date: **-**
-- Protocol: **-**
-- Publications: **-**
-- Results explorer: **-**
+- Analytics use case(s): **Methods**
+- Study lead: **Anna Ostropolets**
+- Study lead forums tag: **[[AO]](https://forums.ohdsi.org/u/aostropolets)**
+- Study start date: **March 2021**
 
-[Description (single paragraph)]
-
-[You can add other text at this point]
+This study aims at developing an alternative for chart review. We examine its utility on 4 conditions, for which the code is in this repo: diabetes mellitus type 1, end stage renal disease, chronic obstructive lung disease and acute appendicitis.
